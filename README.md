@@ -1,5 +1,7 @@
 # hugo-rapid-theme
 
+本主题直接fork[http://blog.coderzh.com/](http://blog.coderzh.com/)，并做了些修改。
+
 Demo: [http://blog.coderzh.com/](http://blog.coderzh.com/)
 
 ## Step1 Install Hugo
